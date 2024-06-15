@@ -1,0 +1,74 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor
+@{
+	ViewData["Title"] = "Home Page";
+	@model RailwaySystem.Models.User.BookTicketData;
+
+}
+
+
+<!-- ======= Breadcrumbs ======= -->
+<div class="breadcrumbs">
+	<div class="page-header d-flex align-items-center booking-header">
+		<div class="container position-relative">
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-8 text-center">
+					<h2>Ticket Booking Form</h2>
+					<p>Complete Ticket Booking</p>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div>
+
+
+
+
+
+
+
+		<div class="container ml-5">
+			<h1 class="mx-3 mt-5 h1_admin text-center" style="margin-bottom:-190px; font-weight:bold">@Model.Route.Train Class @Model.TicketClass</h1>
+			
+			<div class="row mt-n5" style="margin-bottom:-250px">
+			
+				<div class="col-lg-1 my-auto booking-time pr-1">
+					@Model.Route.departureTime.ToString("HH::MM")
+				</div>
+
+				<div class="col-lg-10">
+					<img src="~/lib/img/booking-arrow.png" style="width:100%" width="800">
+				</div>
+
+				<div class="col-lg-1 my-auto booking-time pl-1">
+					@Model.Route.arrivalTime.ToString("HH::MM")
+				</div>
+			</div>
+			<h6 class="mx-3 mt-5 h1_admin text-center" style="font-weight:lighter; margin-bottom:-35px"> Class @Model.TicketClass</h6>
+
+			<h5 class="mx-3 mt-5 h1_admin text-center" style="font-weight:lighter; margin-bottom:-35px"> @Model.Route.departureTime.Date.ToLongDateString()</h5>
+
+			<h4 class="mx-3 mt-5 h1_admin text-center" style="font-weight:bold">@Model.Route.SourceStation to @Model.Route.DestinationStation</h4>
+
+
+
+			<div class="text-center">
+				<input style="width:200px; background-color:#171777 " class="ml-5 my-3 btn btn-success" type="submit" value="Book Ticket" onclick="submitBookingForm()"/>
+			</div>
+		</div>			
+</div>
+
+<script>
+	function submitBookingForm() {
+    document.getElementById('bookingForm').submit();
+}
+
+</script>
+
+<form asp-controller="home" asp-action="CompleteBooking" style="display:none" id="bookingForm">
+	<input type="text" name="email" id="email" value="@Model.User.Email" />
+	<input type="text" name="route" id="route" value="@Model.Route.Id" />
+	<input type="text" name="type" id="type" value="@Model.TicketClass" />
+</form>

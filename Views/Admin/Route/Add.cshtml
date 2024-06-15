@@ -1,0 +1,192 @@
+﻿@*
+	For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	@model RailwaySystem.Models.Admin.AddRouteData
+	ViewBag.Title = "Add New Route";
+	Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1 class="mx-5 my-5 h1_admin">Add New Route</h1>
+
+
+
+<div class="container">
+	<div class="row errors alert-danger">
+		@if(@Model.hasErrors())
+		{
+			<p style="visibility:hidden">123</p>
+			@foreach (var error in @Model.errors)
+			{
+				<p class="ml-5">@error</p>
+			}
+			<p style="visibility:hidden">123</p>
+					
+		}
+	</div>
+	<form id="add-route-form" class="mt-2 form-horizontal add-route-form" asp-controller="Admin" asp-action="submitRoute">
+		<div class="form-group">
+			<h3 class="ml-5 form-heading">
+				Route Details
+			</h3>
+
+			<div class="row">
+				<div class="col-sm-3">
+					<label class="ml-5 control-label">
+						Train
+					</label>
+
+					<select class="ml-3"  name="train" id="train">
+						@foreach (var train in Model.trains)
+						{
+							<option value="@train.Id">@train.Name</option>
+						}
+					</select>
+
+				</div>
+
+				<div class="col-sm-4">
+					<label class="control-label">
+						Departure Date
+					</label>
+					<input class="ml-3" type="date" id="dep_date" name="dep_date">
+				</div>
+
+				<div class="col-sm-3">
+					<label class="control-label">
+						Departure Time
+					</label>
+					<input class="ml-3" type="time" id="dep_time" name="dep_time">
+				</div>
+			</div>
+
+			<div class="row mt-3">
+				<div class="col-sm-3">
+
+				</div>
+
+				<div class="col-sm-4">
+					<label class="control-label ml-4">
+						Arrival Date
+					</label>
+					<input class="ml-3" type="date" id="arr_date" name="arr_date">
+				</div>
+
+				<div class="col-sm-3">
+					<label class="control-label ml-4">
+						Arrival Time
+					</label>
+					<input class="ml-3" type="time" id="arr_time" name="arr_time">
+				</div>
+			</div>
+
+			<div class="row mt-3">
+				<div class="col-sm-2">
+
+
+				</div>
+
+				<div class="col-sm-4">
+					<label class="ml-5 pl-4 control-label">
+						Start Station
+					</label>
+					<select class="ml-3" name="st-source" id="st-source">
+						@foreach (var station in Model.stations)
+						{
+							<option value="@station.Id">@station.Name</option>
+						}
+					</select>
+				</div>
+
+				<div class="col-sm-4">
+					<label class="ml-4 control-label">
+						Destination Station
+					</label>
+					<select class="ml-2" name="st-dest" id="st-dest">
+						@foreach (var station in Model.stations)
+						{
+							<option value="@station.Id">@station.Name</option>
+						}
+					</select>
+				</div>
+			</div>
+
+			<h3 class="ml-5 form-heading">
+				Seat Count
+			</h3>
+
+			<div class="row mt-3">
+
+				<div class=" col-sm-3">
+					<label class="ml-5 control-label">
+						A Class
+					</label>
+					<input class="ml-3" type="number" min="0" max="1000" name="count-class-a" />
+				</div>
+
+				<div class="col-sm-2">
+					<label class="control-label">
+						B Class
+					</label>
+					<input class="ml-3" type="number" min="0" max="1000" name="count-class-b" />
+				</div>
+
+				<div class="col-sm-2 ml-5">
+					<label class="control-label">
+						C Class
+					</label>
+					<input class="ml-3" type="number" min="0" max="1000" name="count-class-c" />
+				</div>
+
+				<div class="col-sm-3">
+					<label class="control-label">
+						C Class (No Berth)
+					</label>
+					<input class="ml-3" type="number" min="0" max="1000" name="count-class-c-no-berth" />
+				</div>
+
+			</div>
+
+			<h3 class="mt-3 ml-5 form-heading">
+				Ticket Fares
+			</h3>
+
+			<div class="row mt-3">
+
+				<div class=" col-sm-3">
+					<label class="ml-5 control-label">
+						A Class
+					</label>
+					<input class="ml-3" type="number" min="0" max="50000" name="fare-class-a" />
+				</div>
+
+				<div class="col-sm-2">
+					<label class="control-label">
+						B Class
+					</label>
+					<input class="ml-3" type="number" min="0" max="50000" name="fare-class-b" />
+				</div>
+
+				<div class="col-sm-2 ml-5">
+					<label class="control-label">
+						C Class
+					</label>
+					<input class="ml-3" type="number" min="0" max="50000" name="fare-class-c" />
+				</div>
+
+				<div class="col-sm-3">
+					<label class="control-label">
+						C Class (No Berth)
+					</label>
+					<input class="ml-3" type="number" min="0" max="50000" name="fair-class-c-no-berth" />
+				</div>
+			</div>
+
+			<div class="row mt-4">
+				<input type="submit" class="btn-success submit-route-data py-1" />
+			</div>
+		</div>
+	</form>
+</div>
+
+<script src="~/js/ajax.js"></script>

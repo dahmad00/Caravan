@@ -1,0 +1,140 @@
+﻿@*
+	For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	@model RailwaySystem.Models.Admin.Route
+	ViewBag.Title = "Route Details";
+	Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="row">
+	<div class=" col-sm-6">
+		<h1 class="mx-3 mt-5 h1_admin">Routes Details For Route @Model.Id</h1>
+	</div>
+
+	<div class="mt-5 col-sm-4">
+		<form class="mt-2" asp-controller="Admin" asp-action="DeleteRoute">
+			<input style="display:none" name="id" value="@Model.Id" />
+			<input style="width:200px; background-color:#161669 " class="ml-5 btn btn-danger" type="submit" value="Delete Route" />
+		</form>
+	</div>
+</div>
+<div class="row">
+	<div class="col-sm-5">
+		<table class="table table-route mx-3">
+
+
+			<thead>
+				<tr>
+					<th scope="col">Field</th>
+					<th scope="col">Value</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th scope="row">ID</th>
+					<td>@Model.Id</td>
+				</tr>
+
+				<tr>
+					<th scope="row">Train</th>
+					<td>@Model.Train</td>
+				</tr>
+
+				<tr>
+					<th scope="row">Train</th>
+					<td>@Model.Train</td>
+				</tr>
+
+				<tr>
+					<th scope="row">Departure</th>
+					<td>@Model.DepartureTime</td>
+				</tr>
+
+				<tr>
+					<th scope="row">Arrival</th>
+					<td>@Model.ArrivalTime</td>
+				</tr>
+
+				<tr>
+					<th scope="row">Source Station</th>
+					<td>@Model.SourceStation</td>
+				</tr>
+
+				<tr>
+					<th scope="row">Destination Station</th>
+					<td>@Model.DestinationStation</td>
+				</tr>
+
+				
+
+				<tr>
+					<th scope="row">A Class Capacity</th>
+					<td>@Model.TotalA</td>
+				</tr>
+
+				<tr>
+					<th scope="row">A Class Purchase</th>
+					<td>@Model.Purchased_A</td>
+				</tr>
+ 
+			</tbody>
+		</table>
+	</div>
+
+	<div class="col-sm-4">
+		<table class="table table-route mx-3">
+
+
+			<thead>
+				<tr>
+					<th scope="col">Field</th>
+					<th scope="col" >Value</th>
+				</tr>
+			</thead>
+			<tbody>
+
+				<tr>
+					<th scope="row">B Class Capacity</th>
+					<td>@Model.TotalB</td>
+				</tr>
+
+				<tr>
+					<th scope="row">B Class Purchase</th>
+					<td>@Model.Purchased_B</td>
+				</tr>
+
+				<tr>
+					<th scope="row">C Class Capacity </th>
+					<td>@Model.TotalC_Both</td>
+				</tr>
+
+				<tr>
+					<th scope="row">C Class Purchase (Seat Only)</th>
+					<td>@Model.Purchased_C_Seat</td>
+				</tr>
+
+				<tr>
+					<th scope="row">A Class Fare</th>
+					<td>@Model.FareA</td>
+				</tr>
+
+				<tr>
+					<th scope="row">B Class Fare</th>
+					<td>@Model.FareB</td>
+				</tr>
+
+				<tr>
+					<th scope="row">C Class Fare</th>
+					<td>@Model.FareC_Both</td>
+				</tr>
+
+				<tr>
+					<th scope="row">C Class Fare (Seat Only)</th>
+					<td>@Model.FareC_Seat</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+</div>

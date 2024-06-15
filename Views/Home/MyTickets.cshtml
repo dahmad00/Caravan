@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "My Tickets";
+    @model RailwaySystem.Models.User.MyTicketsData;
+ }
+
+<div class="breadcrumbs">
+	<div class="page-header d-flex align-items-center my-tickets-header">
+		<div class="container position-relative">
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-8 text-center">
+					<h2>My Tickets</h2>
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<form asp-controller="home" asp-action="DeleteBooking" id="delete-booking-form" style="display:none">
+	<input type="text" name="ID" id="booking-id"/>
+</form>
+
+<div class="w-75 mx-auto pb-5 mb-5">
+	
+<table class="table table-routes mx-3">
+	<p class="mx-3"></p>
+
+    <thead>
+        <tr>
+            <th scope="col">Train</th>
+            <th scope="col">Departure Date/Time</th>
+            <th scope="col">Arrival Date/Time</th>
+            <th scope="col">Source Station</th>
+            <th scope="col">Destination Station</th>
+            <th scope="col">Status</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+		@foreach (var ticket in @Model.Tickets)
+	   {
+
+				<tr>
+					<td>
+						@ticket.Tain
+					</td>
+					<td>
+						@ticket.Departure.ToString()
+					</td>
+					<td>
+						@ticket.Arrival.ToString()
+					</td>
+					<td>
+						@ticket.SourceStation
+					</td>
+					<td>
+						@ticket.DestinationStation
+					</td>
+					<td>
+						@ticket.Status
+					</td>
+					<td>
+
+						@if (@ticket.Status == "Booked")
+						{
+							<button class="btn-show-details" type="submit" onclick="deleteBooking(@ticket.Id)" value="Delete">Delete</button>
+						}
+					</td>
+				</tr>
+
+		}
+
+	</tbody>
+
+	
+</table>
+
+<script>
+	function deleteBooking(id) {
+    document.getElementById('booking-id').value = id;
+    document.getElementById('delete-booking-form').submit();
+}
+</script>

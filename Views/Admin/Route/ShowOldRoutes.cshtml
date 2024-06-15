@@ -1,0 +1,49 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model RailwaySystem.Models.Admin.ShowOldRoutesData
+	ViewBag.Title = "Show Old Routes";
+	Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<table class="table table-routes mx-3">
+	<h1 class="mx-3 mt-5 h1_admin">Routes Data</h1>
+	<p class="mx-3"">The following is data shows all the routes whose departure time has passed</p>
+
+    <thead>
+        <tr>
+            <th scope="col">Route ID</th>
+            <th scope="col">Train</th>
+            <th scope="col">Departure Date/Time</th>
+            <th scope="col">Arrival Date/Time</th>
+            <th scope="col">Source Station</th>
+            <th scope="col">Destination Station</th>
+        </tr>
+    </thead>
+    <tbody>
+		@foreach (var route in @Model.routes)
+		{
+			<tr>
+				<th scope="row">
+					@route.Id
+				</th>
+				<td>
+					@route.Train
+				</td>
+				<td>
+					@route.DepartureTime
+				</td>
+				<td>
+					@route.ArrivalTime
+				</td>
+				<td>
+					@route.SourceStation
+				</td>
+				<td>
+					@route.DestinationStation
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

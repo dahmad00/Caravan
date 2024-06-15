@@ -1,0 +1,945 @@
+{
+  "Files": [
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RailwaySystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RailwaySystem.bundle.scp.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\css\\js\\ajax.js",
+      "PackagePath": "staticwebassets\\css\\js\\ajax.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\css\\js\\site.js",
+      "PackagePath": "staticwebassets\\css\\js\\site.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\css\\sb_styles.css",
+      "PackagePath": "staticwebassets\\css\\sb_styles.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\css\\main.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\css\\main.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\about.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\cargo-service.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\cargo-service.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\cta-bg.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\favicon.png"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\features-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\features-1.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\features-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\features-2.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\features-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\features-3.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\features-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\features-4.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\hero-bg.png",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\hero-bg.png"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\logistics-service.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\logistics-service.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\logo.png",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\logo.png"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\packaging-service.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\packaging-service.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\page-header.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\page-header.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\quote-bg.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\quote-bg.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\service-details.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\service-details.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\storage-service.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\storage-service.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\testimonials-bg.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\testimonials-bg.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\trucking-service.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\trucking-service.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\img\\warehousing-service.jpg",
+      "PackagePath": "staticwebassets\\lib\\Logis\\img\\warehousing-service.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\js\\main.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\js\\main.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\lib\\Logis\\scss\\Readme.txt"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap-icons\\index.html",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap-icons\\index.html"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\Logis\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\Logis\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\img\\bg-my-tickets.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\bg-my-tickets.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\img\\booking-arrow.png",
+      "PackagePath": "staticwebassets\\lib\\img\\booking-arrow.png"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\img\\booking-header.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\booking-header.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\img\\my-tickets-bg.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\my-tickets-bg.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\img\\route arrow.png",
+      "PackagePath": "staticwebassets\\lib\\img\\route arrow.png"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\img\\signup.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\signup.jpg"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "A:\\Archive\\Project\\RailwaySystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RailwaySystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RailwaySystem.props",
+      "PackagePath": "build\\RailwaySystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RailwaySystem.props",
+      "PackagePath": "buildMultiTargeting\\RailwaySystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RailwaySystem.props",
+      "PackagePath": "buildTransitive\\RailwaySystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

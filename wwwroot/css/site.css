@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Nanum+Gothic&family=Raleway:ital@1&family=Source+Sans+Pro:ital@1&display=swap');
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.h1_admin {
+    font-family: 'Lora', serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: #161669;
+    font-weight: 700;
+}
+
+.form-heading {
+    font-weight: 600;
+    font-family: 'Lora', serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: #224abe;
+    font-size: 18px;
+}
+
+.add-route-form {
+    color: #183483
+}
+.add-route-form input, .add-route-form select {
+    color: #183483;
+
+}
+
+.submit-route-data {
+    width: 70%;
+    background-color: #183483;
+    margin-left:100px;
+    color:white !important;
+}
+
+.submit-route-data:hover {
+    background-color: #131483;
+    color: white !important;
+}
+
+.table-routes thead, .table-route thead, .table-route th {
+    background-color: #161669 !important;
+    color:white;
+}
+.table-routes, .table-route {
+    color: #454579;
+    font-size: 15px;
+    width: 95%;
+}
+
+.btn-show-details {
+    background-color: #161669 !important;
+    color: white;
+    border-radius: 4px;
+    color:white !important;
+    width: 100px;
+    height:30px;
+}
+
+
+.btn-show-details:hover {
+    background-color: #183483 !important;
+    color: white;
+    border-radius: 4px;
+}
+
+.station-text {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: -10px;
+    margin-left: 7px;
+}
+
+.ticket-text {
+    width: 172px;
+    height: 150px;
+    border:0.5px dashed #161669 ;
+}
+
+.ticket-text p {
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+.ticket-text h6 {
+    color: #161669 !important;
+}
+
+.booking-result-table td {
+    width: 172px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.booking-result-table tr {
+    border: 1px solid #161669;
+}
+
+
+
+
+
+/*FRONTEND*/
+
+.form-search-ticket {
+
+}
+
+.form-search-ticket select, .form-search-ticket input {
+    width: 30%;
+    margin-right: 10px;
+}
+
+.form-search-ticket:last-child {
+    margin-right: 30px;
+}
+
+
+.form-search-ticket button.btn {
+    width:35%;
+}
+
+.route-time-left {
+    margin-left: 10px;
+}
+
+.route-time-right {
+    margin-left: -34px;
+}
+
+.route-time-left, .route-time-right {
+    margin-top: 28px;
+}
+
+.route-caption {
+    text-align:center;
+    margin-bottom: -15px;
+    font-style:italic;
+    margin-top: 10px;
+    margin-left:-10px;
+}
+
+.station-box {
+    padding-top: 1px !important;
+}
+
+.booking-header {
+    background-image: url(../lib/img/booking-header.jpg);
+}
+
+.my-tickets-header {
+    background-image: url(../lib/img/bg-my-tickets.jpg);
+}
+
+.booking-time {
+    color: #161669;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+.btn-remove-booking {
+    width: 100px;
+}

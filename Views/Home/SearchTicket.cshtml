@@ -1,0 +1,172 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+	@model RailwaySystem.Models.User.SearchTicketsData;
+}
+
+
+<!-- ======= Breadcrumbs ======= -->
+<div class="breadcrumbs">
+	<div class="page-header d-flex align-items-center price-header">
+		<div class="container position-relative">
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-8 text-center">
+					<h2>Ticket Search</h2>
+					<p>Search for your desired routes here</p>
+					<form asp-controller="Home" asp-action="SearchTickets" class="form-search form-search-ticket d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+
+						<select class="form-select" name="from" id="cars">
+							<option value="" disabled selected>Start Location</option>
+							@foreach (var location in @Model.Locations)
+								{
+								<option value="@location">
+								@location
+								</option>
+								}
+
+						</select>
+						<select class="form-select" name="to" id="cars">
+							<option value="" disabled selected>Destination</option>
+							@foreach (var location in @Model.Locations)
+								{
+								<option value="@location">
+								@location
+								</option>
+								}
+						</select>
+
+						<input style="width: 270px" class="form-select" type="date" id="start" name="on" value="@Model.DateToday" min="@Model.DateToday">
+
+						<button type="submit" class="btn btn-primary">Find Tickets</button>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div>
+
+
+
+
+
+
+
+		<div class="container ml-5">
+			<h1 class="mx-3 mt-5 h1_admin text-center">Ticket Booking Form</h1>
+
+			<p class="text-center">@Model.Message</p>
+
+
+
+
+			<table class="table booking-result-table table-routes">
+				<thead class="text-center">
+					<tr>
+						<th colspan="6">
+							Route Infomration
+						</th>
+						<th>
+							A Class
+						</th>
+						<th>
+							B Class
+						</th>
+						<th>
+							C Class
+						</th>
+						<th>
+							C Class
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var route in @Model.routes)
+					{
+						<tr>
+							<td colspan="6">
+								<div class="row mt-4" style="padding-left:30px">
+									<div class="col-lg-1 pl-2 pr-2">
+										<p class="route-time-left">@route.departureTime.ToString("HH::MM")</p>
+									</div>
+
+									<div class="col-lg-9">
+										<div class="row text-center">
+											<small class="route-caption">@route.Train</small>
+										</div>
+										<div class="row px-4">
+											<img src="~/lib/img/route arrow.png" width="80" height="50">
+										</div>
+
+									</div>
+
+									<div class="col-lg-1 mr-2">
+										<p class="route-time-right ml-n3">@route.arrivalTime.ToString("HH::MM")</p>
+									</div>
+								</div>
+
+								<div class="row">
+
+									<div class="text-center station-text col-lg-11 ">
+										@route.SourceStation to @route.DestinationStation
+									</div>
+								</div>
+							</td>
+
+							<td class="text-center">
+								<div class="ticket-text pt-2">
+									<p>Executive</p>
+									<p>Air Conditioner</p>
+									<p>Food</p>
+									<h6 class="card-subtitle text-center mb-2 text-muted">Rs. @route.FareA</h6>
+									<input onclick="booking('A', @route.Id)" style="background-color:#161669 " class="ml-5 btn btn-danger" type="submit" value="Book" />
+								</div>
+							</td>
+
+							<td class="text-center">
+								<div class="ticket-text pt-2">
+									<p>Semi Executive</p>
+									<p>Fans/ Cooler</p>
+									<p>Food</p>
+									<h6 class="card-subtitle text-center mb-2 text-muted">Rs. @route.FareB</h6>
+									<input onclick="booking('B', @route.Id)"  style="background-color:#161669 " class="ml-5 btn btn-danger" type="submit" value="Book" />
+								</div>
+							</td>
+							<td class="text-center">
+								<div class="ticket-text pt-2">
+									<p>Economy</p>
+									<p>Seat</p>
+									<p>Berth</p>
+									<h6 class="card-subtitle text-center mb-2 text-muted">Rs. @route.FareC_Both</h6>
+									<input onclick="booking('C', @route.Id)"  style="background-color:#161669 " class="ml-5 btn btn-danger" type="submit" value="Book" />
+								</div>
+							</td>
+
+							<td class="text-center">
+								<div class="ticket-text pt-2">
+									<p>Economy</p>
+									<p>Seat</p>
+									<p>No Berth</p>
+									<h6 class="card-subtitle text-center mb-2 text-muted">Rs. @route.FareC_Seat</h6>
+									<input onclick="booking('C2', @route.Id)"  style="background-color:#161669 " class="ml-5 btn btn-danger" type="submit" value="Book" />
+								</div>
+							</td>
+						</tr>
+					}
+
+				</tbody>
+			</table>
+		</div>
+
+
+<form asp-controller="Home" asp-action="BookTicket" style="display:none" id="book-ticket">
+	<input id="ticketClass" type="text" name="class" value="" />
+	<input id="route" type="text" name="route" value="" />
+</form>
+
+<script>
+	function booking(ticketClass, id) {
+    document.getElementById('ticketClass').value = ticketClass;
+    document.getElementById('route').value = id;
+    document.getElementById('book-ticket').submit();
+}
+</script>
