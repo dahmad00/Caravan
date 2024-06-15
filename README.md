@@ -16,6 +16,6 @@ Caravan is a Railway Rservation System developed using ASP.NET Core MVC framewor
 1. Clone the Repository
 2. Setup Microsoft SQL Server, create a database
 3. Open The create_tables.sql file. Copy these queries and execute them on your database.
-4. Open the insert_dummy_data/sql fine, and execute these queries as well.
+4. Open the insert_dummy_data.sql file, and execute these queries as well.
 5. Generate Connection String from SQL Server Management Studio, and replace it with the string in GlobalSettings.cs file in the Models Folder.
 6. Execte the project, the website should open up in your browser.
